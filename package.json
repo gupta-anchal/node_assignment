@@ -1,0 +1,19 @@
+{
+  "name": "node_assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/App.js",
+  "scripts": {
+    "start": "nodemon src/App.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/joi-date": "^2.0.1",
+    "joi": "^17.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.4.6",
+    "nodemon": "^2.0.19"
+  }
+}
